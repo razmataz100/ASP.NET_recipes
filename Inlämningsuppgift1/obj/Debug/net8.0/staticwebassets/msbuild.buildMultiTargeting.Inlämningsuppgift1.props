@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Inlämningsuppgift1.props" />
+</Project>
